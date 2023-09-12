@@ -1,0 +1,13 @@
+---
+title: "About"
+---
+
+About this site
+
+Master degree - Social Data and Analytics Research
+
+-   https://www.utdallas.edu/fact-sheets/epps/ms-social-data-analytics-and-research/
+
+```{r}
+1 + 1
+```

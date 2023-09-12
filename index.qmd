@@ -1,0 +1,15 @@
+---
+title: "Kelley Atwood"
+---
+
+This is Kelley Atwood's website.
+
+-   Master of Science in Social Data and Analytics Research
+
+    -   EPPS 6302 Movie Rental - Assignment 1 https://utdallas.qualtrics.com/jfe/form/SV_emazzwq7M3g1E2i
+
+    -   EPPS 6316
+
+```{r}
+
+```
