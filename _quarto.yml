@@ -11,7 +11,7 @@ website:
 
 format:
   html:
-    theme: Architect
+    theme: architect
     css: styles.css
     toc: true
 
