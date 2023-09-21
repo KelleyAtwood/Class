@@ -2,7 +2,15 @@
 title: "About"
 ---
 
-About this site
+About 
+Executive with over fifteen years of proven leadership ability in nonprofit data development fundraising. Problem solver who knows how to tackle complex issues, troubleshoot, and find solutions through project management, change management, and strategic planning. 
+
+Education
+Texas Woman's University BA 2009 
+Texas Woman's University MBA 2011 
+University of Texas at Dallas Executive Certificate in Nonprofit Management 2018
+University of Texas at Dallas MS SDAR expected 2025
+University of Texas at Dallas PhD PPPE expected 2029
 
 ```{r}
 1 + 1
