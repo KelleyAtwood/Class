@@ -2,7 +2,7 @@
 title: "Kelley Atwood"
 ---
 
-This is Kelley Atwood's website.
+This is Kelley Atwood's EPPS 6302 website.
 
 ```{r}
 

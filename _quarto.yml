@@ -7,8 +7,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - Assignments.qmd
+      - href: about.qmd
+        text: About Kelley
+      - href: Assignments.qmd
+        text: Assignments
 
 format:
   html:
