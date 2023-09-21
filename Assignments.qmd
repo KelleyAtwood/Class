@@ -9,8 +9,7 @@ This is Kelley Atwood's website.
     -   EPPS 6302
 
         -   Movie Rental - Assignment 1 https://utdallas.qualtrics.com/jfe/form/SV_emazzwq7M3g1E2i
-
-    -   
+        -   
 
 ```{r}
 
